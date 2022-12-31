@@ -1,10 +1,5 @@
 # CarLord
 
-O objetivo dessa plataforma é proporcionar o gerênciamento e gestão da compra, 
-manutenção e venda de carros. Sendo possível salvar os carros comprados, 
-ter o controle de gastos e saber o lucro na venda. Além de controle de promissórias, 
-pagamentos, empréstimos e outras funções.
+The purpose of this platform is to provide the management of the purchase, maintenance and sale of cars. It is possible to save the purchased cars, have cost control and know the profit on sale. In addition to control of promissory notes, payments, loans and other functions.
 
-API desenvolvida em Java, com Spring Boot, Spring Security usando JWT,
-Spring Data com banco de dados PostgreSQL e deploy no Heroku.
-Todos os códigos estão disponíveis para contribuições.
+API developed in Java with Spring, web application in Angular and deploy on Heroku. All codes are available for contributions.
